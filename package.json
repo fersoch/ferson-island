@@ -1,6 +1,6 @@
 {
   "name": "ferson-island",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ferson island for tea community",
   "main": "index.js",
   "scripts": {
